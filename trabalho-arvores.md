@@ -2,8 +2,7 @@
 
 **Disciplina:** Estrutura de Dados  
 **Curso:** Análise e Desenvolvimento de Sistemas  
-**Integrantes:** Jean · Mateus Cantelle  
-**Instituição:** UNICESUMAR
+**Integrantes:** Jean 
 
 ---
 
@@ -397,7 +396,3 @@ A Rubro-Negra aceita um balanceamento ligeiramente menos rigoroso que a AVL (o r
 
 **N-ária**  
 A N-ária é a mais flexível e a mais poderosa para cenários com **muitos filhos por nó** ou **dados em disco**. A capacidade de ter N filhos reduz drasticamente a altura da árvore, tornando-a ideal para representar hierarquias naturais (como diretórios de sistema de arquivos) e para minimizar acessos de I/O em bancos de dados. As Árvores B e B+, variações N-árias amplamente conhecidas, são o núcleo dos sistemas de gerenciamento de banco de dados modernos. A desvantagem é a maior complexidade de implementação e o maior custo de memória por nó.
-
----
-
-*Trabalho elaborado para a disciplina de Estrutura de Dados — UNICESUMAR — 2025*

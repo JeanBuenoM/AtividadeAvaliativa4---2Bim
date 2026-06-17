@@ -366,7 +366,7 @@ Inserções são gerenciadas com a operação de **split** (divisão de nó chei
 | BST             | Pode degenerar em lista encadeada; não é eficiente para acesso em bloco de disco |
 | AVL             | Balanceamento rigoroso demais gera muitas rotações; nós pequenos aumentam acessos de I/O |
 | Rubro-Negra     | Eficiente em memória RAM, mas não foi projetada para minimizar acessos em bloco de disco |
-| **B+ Tree** ✅  | Projetada especificamente para armazenamento em blocos; minimiza I/O; suporta bilhões de registros |
+| B+ Tree         | Projetada especificamente para armazenamento em blocos; minimiza I/O; suporta bilhões de registros |
 
 #### Conclusão
 

@@ -1,9 +1,5 @@
 # Trabalho – Estruturas Avançadas de Árvores
 
-**Disciplina:** Estrutura de Dados  
-**Curso:** Análise e Desenvolvimento de Sistemas  
-**Integrantes:** Jean 
-
 ---
 
 ## Parte 1 – Tipos de Árvores

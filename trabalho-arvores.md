@@ -41,7 +41,7 @@ Após as três inserções, o nó raiz (10) fica com FB = −2 (desbalanceado à
 ```
 Inserção: 10, 20, 30
 
-Passo 1 – após inserir 10 e 20:   Passo 2 – após inserir 30 (desequilíbrio!):
+Passo 1 – após inserir 10 e 20:   Passo 2 – após inserir 30 (desequilíbrio):
 
     10 (FB=-1)                          10 (FB=-2) ← desequilibrado!
       \                                   \
@@ -53,7 +53,7 @@ Passo 3 – rotação simples à esquerda em 10:
 
          20 (FB=0)
         /         \
-     10 (FB=0)   30 (FB=0)   ← árvore equilibrada ✓
+     10 (FB=0)   30 (FB=0)   ← árvore equilibrada
 ```
 
 ---

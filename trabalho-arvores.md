@@ -8,7 +8,7 @@
 
 #### Conceito
 
-A Árvore AVL é uma Árvore Binária de Busca (BST) auto-balanceável, criada em 1962 pelos matemáticos soviéticos Georgy Adelson Velsky e Evgenii Landis, daí o nome AVL. Ela foi a primeira estrutura de dados a garantir, automaticamente, que a árvore permaneça equilibrada após qualquer inserção ou remoção.
+A Árvore AVL é uma Árvore Binária de Busca (BST) foi a primeira estrutura de dados a garantir, automaticamente, que a árvore permaneça equilibrada após qualquer inserção ou remoção.
 
 O mecanismo central é o fator de balanceamento: para cada nó, a diferença entre a altura da subárvore esquerda e a da subárvore direita deve ser sempre -1, 0 ou +1. Se uma operação violar essa regra, a árvore realiza rotações para se reequilibrar imediatamente.
 
